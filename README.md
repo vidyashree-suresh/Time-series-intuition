@@ -1,2 +1,2 @@
 # Time-series-intuition
-Develop an intuition for time series concepts
+Develop a deeper intuition for time series concepts through Practical Time Series Analysis Coursera course
